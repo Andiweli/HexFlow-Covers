@@ -6,6 +6,7 @@
 [![Latest release](https://img.shields.io/github/v/release/andiweli/HexFlow-Covers?label=RetroFlow%20Database)](https://github.com/andiweli/HexFlow-Covers/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-PS%20Vita-blue)](https://github.com/andiweli/HexFlow-Covers)
 [![Topics](https://img.shields.io/badge/tags-psvita%20retroflow%20hexflow-brightgreen)](https://github.com/andiweli/HexFlow-Covers)
+[![Support via PayPal](https://img.shields.io/badge/Support%20via-PayPal-0070BA?logo=paypal\&logoColor=white)](https://paypal.me/andiweli)
 
 This repository contains:
 
@@ -212,6 +213,18 @@ Huge thanks to everyone who contributed:
 **Cover & artwork copyright**  
 All official cover images and logos remain © their respective publishers and rights holders.  
 This repository is a fan-made, non-commercial **asset database** intended for use with HexFlow-Launcher and RetroFlow-Launcher.
+
+---
+
+## ❤️ Support
+
+If you enjoy this project and would like to support my work, you can make a small contribution via PayPal.
+
+Your support helps me spend more time maintaining existing projects, fixing bugs, improving compatibility, and working on new features.
+
+[![Support via PayPal](https://img.shields.io/badge/Support%20via-PayPal-0070BA?logo=paypal\&logoColor=white)](https://paypal.me/andiweli)
+
+Thank you for your support!
 
 ---
 
